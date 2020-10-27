@@ -1,0 +1,50 @@
+[{
+  "name":"Edgar",
+  "hobby":"videogames",
+  "age": 21,
+  "phone": "3333333333",
+  "address": "foo ST 88 foo Av."
+},
+{
+  "name":"Javier",
+  "hobby":"videogames",
+  "age": 22,
+  "phone": "1234567890",
+  "address": "faa ST 99 faa Av."
+},
+{
+  "name":"Oliver",
+  "hobby":"developer",
+  "age": 22,
+  "phone": "2323232323",
+  "address": "this street 22 that av"
+},
+{
+  "name":"Erick",
+  "hobby":"Video games very hard",
+  "age": 21,
+  "phone": "0987654321",
+  "address": "omg ST 123 omgg Av."
+},
+{
+  "name":"Sergio",
+  "hobby":"nothin",
+  "age": 23,
+  "phone": "5463728190",
+  "address": "idk ST 88 adk Col."
+},
+{
+  "name":"Alan",
+  "hobby":"vi de o ga me ssssss",
+  "age": 21,
+  "phone": "2345098711",
+  "address": "foo ST 000 asd Av."
+},
+{
+  "name":"Guido",
+  "hobby":"gamble Adict",
+  "age": 22,
+  "phone": "2223335557",
+  "address": "asd ST 77766 asd Av."
+}
+  ]
